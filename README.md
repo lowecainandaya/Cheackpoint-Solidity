@@ -41,7 +41,7 @@ import './node_modules/checkpoint-solidity/checkpoint.sol
   import "https://github.com/FreenetProject/Cheackpoint-Solidity/checkpoint.sol"
 ```
 
-### 3 clone 
+## 3 clone 
 ```bash 
 $ git clone "https://github.com/FreenetProject/Cheackpoint-Solidity";
 $ cd Cheackpoint-Solidity
