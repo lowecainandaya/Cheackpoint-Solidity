@@ -1,0 +1,27 @@
+{
+  "name": "cheackpoint-solidity",
+  "version": "1.0.0",
+  "description": "A Library to fjght Reetancy",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreenetProject/Cheackpoint-Solidity.git"
+  },
+  "keywords": [
+    "Solidity","Reetancy Guard","smart contract","ethereum","blockchain"
+  ],
+  "author": "Lluie Cain Andaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreenetProject/Cheackpoint-Solidity/issues"
+  },
+  "homepage": "https://github.com/FreenetProject/Cheackpoint-Solidity#readme",
+    "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true,
+}
+
+
