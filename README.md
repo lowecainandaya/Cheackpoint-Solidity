@@ -23,9 +23,11 @@ it is good to use inorder too produce  cleaner code flow when adding Reentrancy 
 </p>
 
 ### Checkpoint Solidity 
-<li>is mint to be part of the IEP (ERC)</li>
+<li>is meant to be proposed to the IEP (ERC)</li>
 
 <p>There Are 3 ways To Add Checkpoint-Solidity to your project</p>
+
+
 ## 1 NPM
 ```bash 
  $  npm i checkpoint-solidity 
